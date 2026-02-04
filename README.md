@@ -4,15 +4,9 @@
 
 ![Master Oogway](oogway_under_tree.png)
 
-## Stats
+## Git Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Khatri-That-codes&show_icons=true&theme=synthwave&hide_border=true)
-
----
-
-## Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khatri-That-Codes&layout=compact&theme=synthwave&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khatri-That-codes&theme=react-dark&hide_border=true)
 
 ---
 
@@ -22,11 +16,7 @@
 
 ---
 
-## Git Activity
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Khatri-That-codes&theme=react-dark&hide_border=true)
-
----
 
 ![Visitors](https://komarev.com/ghpvc/?username=Khatri-That-codes&label=Visitors&color=ff00ff&style=for-the-badge)
 
