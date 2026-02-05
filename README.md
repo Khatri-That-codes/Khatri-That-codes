@@ -1,7 +1,7 @@
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=18&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub...;Java+%7C+Python+%7C+React+%7C+Kotlin+%7C+Git+%7C+Bash;Simply+Simply+Lovely)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=34&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub...;Java+%7C+Python+%7C+React+%7C+Kotlin+%7C+Git+%7C+Bash;Simply+Simply+Lovely)
 
-![Oogway Again](oogway_fight.gif)
+<img src="oogway_fight.gif" alt="Oogway Again" style="width: 100%;">
 
 ## Git Activity
 
@@ -15,9 +15,9 @@
 
 ---
 
-![Oogway](golden_oogway.gif)
+<img src="golden_oogway.gif" alt="Oogway" style="width: 100%;">
 
-![Visitors](https://komarev.com/ghpvc/?username=Khatri-That-codes&label=Visits&color=ff00ff&style=for-the-badge)
+<img src="https://komarev.com/ghpvc/?username=Khatri-That-codes&label=Visits&color=ff00ff&style=for-the-badge" alt="Visitors" >
 
 
 
