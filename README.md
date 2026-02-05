@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=26&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub...;Java+%7C+Python+%7C+React+%7C+Kotlin+%7C+Git+%7C+Bash;Simply+Simply+Lovely)
 
-<img src="oogway_fight.gif" alt="Oogway Again" style="display: block; margin: 0 auto; width: 100%;">
+<img src="oogway_fight.gif" alt="Oogway Again" style="display: block; margin: auto; width: 100%;">
 
 ## Git Activity
 
@@ -13,7 +13,8 @@
 
 
 ## Contribution
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Khatri-That-codes&theme=slateorange" alt="GitHub Streak" /></a>
+![contribution](https://streak-stats.demolab.com?user=Khatri-That-codes&theme=slateorange)
+
 
 ---
 
