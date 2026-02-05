@@ -11,7 +11,7 @@
 ## Stats
 <div align="center" style="display: flex ; gap: 20px">
 <img src="https://github-readme-stats-kohl-tau.vercel.app/api/top-langs?username=Khatri-That-codes&layout=compact&langs_count=10&theme=dark" alt="Top Languages">
-<img src="https://streak-stats.demolab.com?user=Khatri-That-codes&theme=slateorange" alt="Contribution">
+<img src="https://streak-stats.demolab.com?user=Khatri-That-codes&theme=shadow-orange" alt="Contribution">
 
 </div>
 
